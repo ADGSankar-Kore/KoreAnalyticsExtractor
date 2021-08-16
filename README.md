@@ -1,25 +1,25 @@
-This code will extract the Analytics reports of a bot.
-It creates CSV reports of
-1.Intent found
-2.Intent not found and 
-3.Failed task
+This code will extract the Analytics reports of a bot.<br />
+It creates CSV reports of<br />
+1.Intent found<br />
+2.Intent not found and<br /> 
+3.Failed task<br />
 
-you need to mention the bot details in the config file
-1.botId,
-2.authToken generaed from client id and client secret (Should enable the metrics API scope for the bot)
-3.host(ex: bots.kore.ai)
-4.from
-5.to
-6.isDeveloper
+you need to mention the bot details in the config file<br />
+1.botId,<br />
+2.authToken generaed from client id and client secret (Should enable the metrics API scope for the bot)<br />
+3.host(ex: bots.kore.ai)<br />
+4.from<br />
+5.to<br />
+6.isDeveloper<br />
 
-You can also get performance tab metrics using this script.
-All you need to do is by adding a an object to the "requiredFields" in config file.
+You can also get performance tab metrics using this script.<br />
+All you need to do is by adding a an object to the "requiredFields" in config file.<br />
 
-You will get output as csv files and the filenames will be displayed at the start of the script
+You will get output as csv files and the filenames will be displayed at the start of the script<br />
 
-This is built using Metrics API  of Kore
-https://developer.kore.ai/docs/bots/api-guide/get-analytics-api/
-You can customize the metrics API call in the getAnalytics.js file
+This is built using Metrics API  of Kore<br />
+https://developer.kore.ai/docs/bots/api-guide/get-analytics-api/<br />
+You can customize the metrics API call in the getAnalytics.js file<br />
 
 Issues found as of now
 ----------------------------------------
