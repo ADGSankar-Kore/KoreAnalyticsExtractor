@@ -20,3 +20,7 @@ You will get output as csv files and the filenames will be displayed at the star
 This is built using Metrics API  of Kore
 https://developer.kore.ai/docs/bots/api-guide/get-analytics-api/
 You can customize the metrics API call in the getAnalytics.js file
+
+Future enhancements
+----------------------------------------
+1.Adding a retry mechanism in case of any failures
