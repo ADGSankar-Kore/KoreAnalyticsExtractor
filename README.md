@@ -1,3 +1,5 @@
+Script to extract Analyze metric reports from Kore platform
+------------------------------------------------------------
 This code will extract the Analytics reports of a bot.<br />
 It creates CSV reports of<br />
 1.Intent found<br />
