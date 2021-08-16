@@ -21,6 +21,10 @@ This is built using Metrics API  of Kore
 https://developer.kore.ai/docs/bots/api-guide/get-analytics-api/
 You can customize the metrics API call in the getAnalytics.js file
 
+Issues found as of now
+----------------------------------------
+1.facing one issue with the API call - getting 400 error and raised a internal ticket
+
 Future enhancements
 ----------------------------------------
 1.Adding a retry mechanism in case of any failures
